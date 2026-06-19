@@ -1,0 +1,6 @@
+{
+  "name": "FitAI Coach",
+  "description": "AI-powered personal trainer fitness app offering personalized workouts, nutrition, progress tracking, and interactive coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
